@@ -1,7 +1,7 @@
 def sumita(a,b):
     return a+b
-
-a = float(input("Mete aqui un numerito we: "))
-b = float(input("Mete aqui un numerito we: "))
+#calculadora a prueba de tusi 
+a = float(input("Mete aqui un numero: "))
+b = float(input("Mete aqui un numero: "))
 
 print(sumita(a,b) + "monito")
